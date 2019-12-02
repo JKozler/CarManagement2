@@ -7,6 +7,7 @@ namespace CarManagement
         static void Main(string[] args)
         {
             Console.WriteLine("Car");
+            Console.WriteLine("Is");
             Console.ReadKey();
         }
     }
